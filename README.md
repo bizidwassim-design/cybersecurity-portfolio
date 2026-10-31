@@ -12,9 +12,22 @@ toolkits. Website: [brainfortsecurity.com](https://www.brainfortsecurity.com/).
 |---|---------|------------|-------|
 | 1 | [application-risk-assessment-template](https://github.com/bizidwassim-design/application-risk-assessment-template) | Excel workbook to assess application risks with a Likelihood × Impact (5×5) method: methodology, scales, inventory, risk register with automatic rating, dashboard and heat map. Aligned with ISO 27001, NIST CSF 2.0 and ISO 42001. | Excel · openpyxl |
 | 2 | [grc-control-crosswalk](https://github.com/bizidwassim-design/grc-control-crosswalk) | Crosswalk of the 93 ISO 27001:2022 Annex A controls to NIST CSF 2.0, CIS Controls v8, ISO 42001 and SOC 2 TSC — Excel with per-framework views, plus CSV and YAML for automation. | Excel · CSV · YAML · Python |
-| 3 | [soc-detection-playbooks](https://github.com/bizidwassim-design/soc-detection-playbooks) | 11 Sigma detection rules (phishing/BEC, ransomware, credential access, Entra ID & AWS, lateral movement, persistence) that pass `sigma check`, five analyst playbooks, MITRE ATT&CK mapping and a Navigator layer. | Sigma · Markdown · ATT&CK |
+| 3 | [soc-detection-playbooks](https://github.com/bizidwassim-design/soc-detection-playbooks) | 14 Sigma detection rules covering every tactic of a ransomware kill chain (phishing/BEC, credential access, discovery, lateral movement, persistence, C2, exfiltration, impact, Entra ID & AWS) validated by `sigma check` in CI, six analyst playbooks, MITRE ATT&CK mapping and a Navigator layer. | Sigma · Markdown · ATT&CK |
 | 4 | [ciso-executive-dashboard](https://github.com/bizidwassim-design/ciso-executive-dashboard) | Single-page executive security dashboard: KPIs, NIST CSF 2.0 maturity radar, risk and incident trends, vulnerability SLA, compliance progress, top risks, roadmap and budget. Edit one data file; host on GitHub Pages. | HTML · CSS · Chart.js |
 | 5 | [iso27001-iso42001-toolkit](https://github.com/bizidwassim-design/iso27001-iso42001-toolkit) | Checklists, six policy templates, Statement of Applicability (ISO 27001 + ISO 42001 Annex A), risk treatment plan, RACI, AI system impact assessment, audit evidence list and a four-phase getting-started guide. | Markdown · Excel · Python |
+
+### Build status
+
+| Project | CI | Licence |
+|---------|----|---------|
+| application-risk-assessment-template | [![CI](https://github.com/bizidwassim-design/application-risk-assessment-template/actions/workflows/ci.yml/badge.svg)](https://github.com/bizidwassim-design/application-risk-assessment-template/actions) | MIT |
+| grc-control-crosswalk | [![CI](https://github.com/bizidwassim-design/grc-control-crosswalk/actions/workflows/ci.yml/badge.svg)](https://github.com/bizidwassim-design/grc-control-crosswalk/actions) | MIT |
+| soc-detection-playbooks | [![Sigma check](https://github.com/bizidwassim-design/soc-detection-playbooks/actions/workflows/ci.yml/badge.svg)](https://github.com/bizidwassim-design/soc-detection-playbooks/actions) | MIT |
+| ciso-executive-dashboard | [![CI](https://github.com/bizidwassim-design/ciso-executive-dashboard/actions/workflows/ci.yml/badge.svg)](https://github.com/bizidwassim-design/ciso-executive-dashboard/actions) · [live demo](https://bizidwassim-design.github.io/ciso-executive-dashboard/) | MIT |
+| iso27001-iso42001-toolkit | [![CI](https://github.com/bizidwassim-design/iso27001-iso42001-toolkit/actions/workflows/ci.yml/badge.svg)](https://github.com/bizidwassim-design/iso27001-iso42001-toolkit/actions) | MIT |
+
+Every repository ships a `SECURITY.md` (private vulnerability reporting), a `CHANGELOG.md`, CI that rebuilds and
+verifies the generated files, no macros in any office document, and fictional sample data only.
 
 ### How they fit together
 
