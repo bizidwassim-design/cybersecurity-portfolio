@@ -15,7 +15,7 @@ toolkits. Website: [brainfortsecurity.com](https://www.brainfortsecurity.com/).
 | 3 | [soc-detection-playbooks](https://github.com/bizidwassim-design/soc-detection-playbooks) | 14 Sigma detection rules covering every tactic of a ransomware kill chain (phishing/BEC, credential access, discovery, lateral movement, persistence, C2, exfiltration, impact, Entra ID & AWS) validated by `sigma check` in CI, six analyst playbooks, MITRE ATT&CK mapping and a Navigator layer. | Sigma · Markdown · ATT&CK |
 | 4 | [ciso-executive-dashboard](https://github.com/bizidwassim-design/ciso-executive-dashboard) | Single-page executive security dashboard: KPIs, NIST CSF 2.0 maturity radar, risk and incident trends, vulnerability SLA, compliance progress, top risks, roadmap and budget. Edit one data file; host on GitHub Pages. | HTML · CSS · Chart.js |
 | 5 | [iso27001-iso42001-toolkit](https://github.com/bizidwassim-design/iso27001-iso42001-toolkit) | Checklists, six policy templates, Statement of Applicability (ISO 27001 + ISO 42001 Annex A), risk treatment plan, RACI, AI system impact assessment, audit evidence list and a four-phase getting-started guide. | Markdown · Excel · Python |
-| 6 | [script-library](https://github.com/bizidwassim-design/script-library) | 100+ PowerShell and KQL scripts for identity and security operations: AD / Entra ID audits, Exchange Online and SharePoint reporting, Defender hunting queries, endpoint administration, network checks, recurring compliance jobs. Sanitised, documented, secret-scanned in CI. | PowerShell · KQL |
+| 6 | [public-scripts](https://github.com/bizidwassim-design/public-scripts) | 121 sanitised PowerShell, KQL and Python scripts for identity and security operations: AD / Entra ID audits, Exchange Online and SharePoint reporting, Defender hunting queries, endpoint administration, network checks, recurring compliance jobs. Sanitised, documented, secret-scanned in CI. | PowerShell · KQL |
 
 ### Build status
 
@@ -26,7 +26,7 @@ toolkits. Website: [brainfortsecurity.com](https://www.brainfortsecurity.com/).
 | soc-detection-playbooks | [![Sigma check](https://github.com/bizidwassim-design/soc-detection-playbooks/actions/workflows/ci.yml/badge.svg)](https://github.com/bizidwassim-design/soc-detection-playbooks/actions) | MIT |
 | ciso-executive-dashboard | [![CI](https://github.com/bizidwassim-design/ciso-executive-dashboard/actions/workflows/ci.yml/badge.svg)](https://github.com/bizidwassim-design/ciso-executive-dashboard/actions) · [live demo](https://bizidwassim-design.github.io/ciso-executive-dashboard/) | MIT |
 | iso27001-iso42001-toolkit | [![CI](https://github.com/bizidwassim-design/iso27001-iso42001-toolkit/actions/workflows/ci.yml/badge.svg)](https://github.com/bizidwassim-design/iso27001-iso42001-toolkit/actions) | MIT |
-| script-library | [![CI](https://github.com/bizidwassim-design/script-library/actions/workflows/ci.yml/badge.svg)](https://github.com/bizidwassim-design/script-library/actions) | MIT |
+| public-scripts | [![CI](https://github.com/bizidwassim-design/public-scripts/actions/workflows/ci.yml/badge.svg)](https://github.com/bizidwassim-design/public-scripts/actions) | MIT |
 
 Every repository ships a `SECURITY.md` (private vulnerability reporting), a `CHANGELOG.md`, CI that rebuilds and
 verifies the generated files, no macros in any office document, and fictional sample data only.
