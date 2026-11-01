@@ -67,20 +67,9 @@ verifies the generated files, no macros in any office document, and fictional sa
                  4 · CISO executive dashboard (reports the KPIs to the board)
 ```
 
-## Reference tools I follow
-
-Public forks of open-source projects I keep for study and comparison. Credit and licence belong to their authors.
-
-| Project | Author | Licence | Fork |
-|---------|--------|---------|------|
-| [Cybether](https://github.com/jccyberx/Cybether) | jccyberx | No licence published | [fork](https://github.com/bizidwassim-design/Cybether) |
-| [CISO-Dashboard](https://github.com/SiteQ8/CISO-Dashboard) | SiteQ8 | MIT | [fork](https://github.com/bizidwassim-design/CISO-Dashboard) |
-| [security-leadership-panel](https://github.com/SiteQ8/security-leadership-panel) | SiteQ8 | MIT | [fork](https://github.com/bizidwassim-design/security-leadership-panel) |
-| [ciso-maturity-tool](https://github.com/DYasmanovych/ciso-maturity-tool) | DYasmanovych | No licence published | [fork](https://github.com/bizidwassim-design/ciso-maturity-tool) |
-
 ## Principles
 
-* **Original work.** The five projects are written from scratch; they are inspired by common practice, not copied from other repositories.
+* **Original work.** All sixteen projects were designed and written from scratch by Wassim Bizid.
 * **Fictional data only.** Sample companies, risks and metrics are invented.
 * **Reusable by default.** MIT licence, no build step where avoidable, CSV/YAML twins for anything in Excel.
 * **Standards-aligned.** ISO/IEC 27001:2022, ISO/IEC 42001:2023, NIST CSF 2.0, CIS Controls v8, SOC 2 TSC, MITRE ATT&CK.
