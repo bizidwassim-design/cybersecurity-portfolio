@@ -35,7 +35,7 @@ toolkits. Portfolio: [bizidwassim-design.github.io/wassim-bizid-portfolio](https
 | Project | CI | Licence |
 |---------|----|---------|
 | application-risk-assessment-template | [![CI](https://github.com/bizidwassim-design/application-risk-assessment-template/actions/workflows/ci.yml/badge.svg)](https://github.com/bizidwassim-design/application-risk-assessment-template/actions) | MIT |
-| grc-control-crosswalk | [![CI](https://github.com/bizidwassim-design/grc-control-crosswalk/actions/workflows/ci.yml/badge.svg)](https://github.com/bizidwassim-design/grc-control-crosswalk/actions) | MIT |
+| grc-control-crosswalk | [![CI](https://github.com/bizidwassim-design/grc-control-crosswalk/actions/workflows/ci.yml/badge.svg)](https://github.com/bizidwassim-design/grc-control-crosswalk/actions) · [live demo](https://bizidwassim-design.github.io/grc-control-crosswalk/) | MIT |
 | soc-detection-playbooks | [![Sigma check](https://github.com/bizidwassim-design/soc-detection-playbooks/actions/workflows/ci.yml/badge.svg)](https://github.com/bizidwassim-design/soc-detection-playbooks/actions) | MIT |
 | ciso-executive-dashboard | [![CI](https://github.com/bizidwassim-design/ciso-executive-dashboard/actions/workflows/ci.yml/badge.svg)](https://github.com/bizidwassim-design/ciso-executive-dashboard/actions) · [live demo](https://bizidwassim-design.github.io/ciso-executive-dashboard/) | MIT |
 | iso27001-iso42001-toolkit | [![CI](https://github.com/bizidwassim-design/iso27001-iso42001-toolkit/actions/workflows/ci.yml/badge.svg)](https://github.com/bizidwassim-design/iso27001-iso42001-toolkit/actions) | MIT |
