@@ -2,7 +2,7 @@
 
 Open-source GRC and SOC projects I build and maintain. Everything here is released under the MIT License, contains
 no client data, and is meant to be reused as-is by small and mid-sized organisations that cannot afford commercial
-toolkits. Website: [brainfortsecurity.com](https://www.brainfortsecurity.com/).
+toolkits. Portfolio: [bizidwassim-design.github.io/wassim-bizid-portfolio](https://bizidwassim-design.github.io/wassim-bizid-portfolio/).
 
 > 🇫🇷 Résumé en français en bas de page.
 
@@ -76,7 +76,7 @@ verifies the generated files, no macros in any office document, and fictional sa
 
 ## Contact
 
-Through [brainfortsecurity.com](https://www.brainfortsecurity.com/) or GitHub issues on the relevant project.
+Through the [portfolio contact section](https://bizidwassim-design.github.io/wassim-bizid-portfolio/#contact) or GitHub issues on the relevant project.
 
 ## License
 
