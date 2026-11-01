@@ -1,8 +1,10 @@
-# Cybersecurity portfolio — Wassim Bizid
+# Open-source GRC and SOC projects: index — Wassim Bizid
+
+This repository is only the **index** of my 19 open-source GRC and SOC projects. The canonical portfolio, with case studies and live demos, is [bizidwassim-design.github.io/wassim-bizid-portfolio](https://bizidwassim-design.github.io/wassim-bizid-portfolio/).
 
 Open-source GRC and SOC projects I build and maintain. Everything here is released under the MIT License, contains
 no client data, and is meant to be reused as-is by small and mid-sized organisations that cannot afford commercial
-toolkits. Portfolio: [bizidwassim-design.github.io/wassim-bizid-portfolio](https://bizidwassim-design.github.io/wassim-bizid-portfolio/).
+toolkits.
 
 > 🇫🇷 Résumé en français en bas de page.
 
