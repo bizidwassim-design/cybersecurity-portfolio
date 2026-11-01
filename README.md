@@ -86,6 +86,13 @@ verifies the generated files, no macros in any office document, and fictional sa
 
 Through the [portfolio contact section](https://bizidwassim-design.github.io/wassim-bizid-portfolio/#contact) or GitHub issues on the relevant project.
 
+## AI assistance
+
+Built with Claude Code as a coding and writing assistant, which is why it appears as a co-author on some commits.
+**Editor and reviewer: Wassim Bizid**, who set the scope, the frameworks and the GRC approach, edited the content
+and decided what was published. Automated tests in CI check the published outputs. This is a maintainer review,
+not an independent one.
+
 ## License
 
 This index: [MIT](LICENSE). Each project carries its own licence file.
